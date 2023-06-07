@@ -1,0 +1,26 @@
+emp1          rollno,name,address,phone
+emp2          rollno,name,address,phone,dob
+emp3         
+
+
+rowid check cheyali
+multiple tables copying
+
+
+candidate     -->   emp_id , name,age,salary,phone,date_of_joining
+
+employee name column shouldnot be null
+age should be greater than 22 and less than 65
+the minimum salary is 10000
+key column is employee id
+phone number shold be unique
+after creating the table and inserting vales and drop unique constraint to phone column
+
+not null,
+unique
+primary key
+check
+default
+foreign
+
+age number(5) check(age>22 and age<65),salary float default 10000
